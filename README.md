@@ -67,7 +67,7 @@ AKTU
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
 1 | Sachidanand Chaturvedi | Faculty | Computer Science & Engineering | Buddha Institute Of Technology GIDA, Gorakhpur | schaturvedi26@bit.ac.in |
-2 |  | Pratim Sharma | Information Technology | Buddha Institute of Technology GIDA, Gorakhpur | pratimsh8486@gmail.com |
+2 | Pratim Sharma | Student | Information Technology | Buddha Institute of Technology GIDA, Gorakhpur | pratimsh8486@gmail.com |
 3 | Pankaj Kumar Gupt | Student | Computer Science & Engineeing | Buddha Institute of Technology GIDA, Gorakhpur | pankajid7541@gmail.com |
 4 | Manish Pandey | Student | Computer Science & Engineering | Buddha Institute of Technology GIDA, Gorakhpur | mpandeyji977@gmail.com |
 5 | Shubham Kumar | Student | Computer Science & Engineering | Buddha Institute of Technology GIDA, Gorakhpur | kshubh8604@gmail.com |

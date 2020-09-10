@@ -33,10 +33,6 @@ ________________________________________
 HTML Text Tags
 <p>, <h1>, <h2>, <h3>, <h4>, <h5>, <h6>, <strong>, <em>, <abbr>, <acronym>, <address>, <bdo>, <blockquote>, <cite>, <q>, <code>, <ins>, <del>, <dfn>, <kbd>, <pre>, <samp>, <var> and <br>
 
-
-
-
-
 <h5> Target Audience : </An 
 
 Student

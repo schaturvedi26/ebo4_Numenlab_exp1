@@ -1,4 +1,4 @@
-## Introduction (Round 0)
+### Introduction (Round 0)
 
 Remove this line before submitting : To Refer a filled sample of this template visit here : <br> http://vlabs.iitb.ac.in/gitlab/Community-Docs/New-Lab-development/Samples
 <br>
@@ -30,7 +30,6 @@ Some HTML tags are not closed, for example br and hr.
  HTML Meta Tags </h>
 DOCTYPE, title, link, meta and style
 HTML Text Tags
- <hr> <p>, <h1>, <h2>, <h3>, <h4>, <h5>, <h6>, <strong>, <em>, <abbr>, <acronym>, <address>, <bdo>, <blockquote>, <cite>, <q>, <code>, <ins>, <del>, <dfn>, <kbd>, <pre>, <samp>, <var> and <br> </h>
 
 <h5> Target Audience : </h5>
 

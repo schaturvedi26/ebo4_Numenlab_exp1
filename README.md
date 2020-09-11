@@ -25,9 +25,9 @@ Syntax
 •	<tag> content </tag>
 Unclosed HTML Tags
 Some HTML tags are not closed, for example br and hr.
-<br> Tag: br stands for break line, it breaks the line of the code.
+<br> Tag: br stands for break line, it breaks the line of the code.</b>
 <hr> Tag: hr stands for Horizontal Rule. This tag is used to put a line across the webpage
- HTML Meta Tags
+ HTML Meta Tags </h>
 DOCTYPE, title, link, meta and style
 HTML Text Tags
 <p>, <h1>, <h2>, <h3>, <h4>, <h5>, <h6>, <strong>, <em>, <abbr>, <acronym>, <address>, <bdo>, <blockquote>, <cite>, <q>, <code>, <ins>, <del>, <dfn>, <kbd>, <pre>, <samp>, <var> and <br>
@@ -35,6 +35,7 @@ HTML Text Tags
 <h5> Target Audience : </h5>
 
 Student
+
 <h5> Course Alignment : </h5>
 
  Web Designing Lab (KIT451)

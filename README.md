@@ -20,6 +20,7 @@ An HTML file must have some essential tags so that web browser can differentiate
 •	All HTML tags must enclosed within < > these brackets.
 •	Every tag in HTML perform different tasks.
 •	If you have used an open tag <tag>, then you must use a close tag </tag> (except some tags)
+
 Syntax
 •	<tag> content </tag>
 Unclosed HTML Tags

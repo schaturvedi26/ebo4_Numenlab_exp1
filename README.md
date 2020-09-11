@@ -21,7 +21,7 @@ An HTML file must have some essential tags so that web browser can differentiate
 •	Every tag in HTML perform different tasks.
 •	If you have used an open tag <tag>, then you must use a close tag </tag> (except some tags)
 
-Syntax
+<h> Syntax </h>
 •	<tag> content </tag>
 Unclosed HTML Tags
 Some HTML tags are not closed, for example br and hr.

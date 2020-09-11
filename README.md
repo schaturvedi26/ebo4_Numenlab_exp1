@@ -30,7 +30,7 @@ Some HTML tags are not closed, for example br and hr.
  HTML Meta Tags </h>
 DOCTYPE, title, link, meta and style
 HTML Text Tags
-<p>, <h1>, <h2>, <h3>, <h4>, <h5>, <h6>, <strong>, <em>, <abbr>, <acronym>, <address>, <bdo>, <blockquote>, <cite>, <q>, <code>, <ins>, <del>, <dfn>, <kbd>, <pre>, <samp>, <var> and <br>
+ <h> <p>, <h1>, <h2>, <h3>, <h4>, <h5>, <h6>, <strong>, <em>, <abbr>, <acronym>, <address>, <bdo>, <blockquote>, <cite>, <q>, <code>, <ins>, <del>, <dfn>, <kbd>, <pre>, <samp>, <var> and <br> </h>
 
 <h5> Target Audience : </h5>
 

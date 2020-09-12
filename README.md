@@ -18,20 +18,16 @@ In this  lab students are empowered to create and share the content on their own
 HTML tags are like keywords which defines that how web browser will format and display the content. With the help of tags, a web browser can distinguish between an HTML content and a simple content. HTML tags contain three main parts: opening tag, content and closing tag. But some HTML tags are unclosed tags.
 When a web browser reads an HTML document, browser reads it from top to bottom and left to right. 
 HTML tags are used to create HTML documents and render their properties. Each HTML tags have different properties.
-An HTML file must have some essential tags so that web browser can differentiate between a simple text and HTML text. You can use as many tags you want as per your code requirement.
-•	All HTML tags must enclosed within < > these brackets.
-•	Every tag in HTML perform different tasks.
-•	If you have used an open tag <tag>, then you must use a close tag </tag> (except some tags)
+An HTML file must have some essential tags so that web browser can differentiate between a simple text and HTML text. You can use as many tags you want as per your code requirement.All HTML tags must enclosed within < > these brackets.	Every tag in HTML perform different tasks.If you have used an open tag <tag>, then you must use a close tag </tag> (except some tags)
 
-<h> Syntax </h>
-•	<tag> content </tag>
-Unclosed HTML Tags
-Some HTML tags are not closed, for example br and hr.
-<br> Tag: br stands for break line, it breaks the line of the code.</b>
-<hr> Tag: hr stands for Horizontal Rule. This tag is used to put a line across the webpage
- HTML Meta Tags </h>
-DOCTYPE, title, link, meta and style
-HTML Text Tags
+Syntax : 	<tag> content </tag>
+Unclosed HTML Tags :  Some HTML tags are not closed, for example (br)-break line  and ( hr) -horizontal line .
+br Tag: br stands for break line, it breaks the line of the code.</b>
+hr Tag: hr stands for Horizontal Rule. This tag is used to put a line across the webpage
+
+HTML Meta Tags : DOCTYPE, title, link, meta and style
+HTML Text Tags : p, h1, h2, h3, h4, h5, h6, strong, em, abbr, acronym, address, bdo, blockquote, cite, q, code, ins, del,pre ,var and br
+
 
 <h5> Target Audience : </h5>
 

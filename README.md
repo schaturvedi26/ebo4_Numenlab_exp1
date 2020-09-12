@@ -9,7 +9,9 @@ Remove this line before submitting : To Refer a filled sample of this template v
 <b> Experiment|     <b> 1. To create a simple html file to demonstrate the use of different tags
 <h5> About the Lab (Objective) : </h5>
 
- To create a simple html file to demonstrate the use of different tags.
+Web designing lab  is the visual aesthetics and page layout of a website. It goes hand-in-hand with web development in the creation of a static website or dynamic web application. Even if you don’t consider yourself a creative person, it’s still a good idea to learn web designing. Web designing  encompasses many different skills and disciplines in the production and maintenance of websites. The different areas of web design include web graphic design; interface design; authoring, including standardised code and proprietary software; user experience design; and search engine optimization.
+In this  lab students are empowered to create and share the content on their own web pages. They begin by thinking about the role of the web, and how it can be used as a medium for creative expression. As students develop their pages and begin to see themselves as programmers, they are encouraged think critically about the impact of sharing information online and how to be more critical content consumers. They are also introduced to problem solving as it relates to programming, as they learn valuable skills such as debugging, commenting, and structure of language. At the conclusion of the units , students compile their work to create a personal website they can publish and share.
+
 
 <h5> About the Experiment : </h5>
 

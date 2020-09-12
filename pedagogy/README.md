@@ -10,7 +10,7 @@ Remove this line before submitting : To Refer a filled sample of this template v
 <b>Discipline | <b>Information Technology
 :--|:--|
 <b> Lab | <b> Web designing lab
-<b> Experiment|     <b> 1. 
+<b> Experiment|     <b> 1. To create a simple html file to demonstrate the use of different tags.
 
 
 

@@ -20,7 +20,6 @@ When a web browser reads an HTML document, browser reads it from top to bottom a
 HTML tags are used to create HTML documents and render their properties. Each HTML tags have different properties.
 An HTML file must have some essential tags so that web browser can differentiate between a simple text and HTML text. You can use as many tags you want as per your code requirement.All HTML tags must enclosed within < > these brackets.	Every tag in HTML perform different tasks.If you have used an open tag <tag>, then you must use a close tag </tag> (except some tags)
 
-HTML Meta Tags : DOCTYPE, title, link, meta and style
 HTML Text Tags : p, h1, h2, h3, h4, h5, h6, strong, em, abbr, acronym, address, bdo, blockquote, cite, q, code, ins, del,pre ,var and br
 
 

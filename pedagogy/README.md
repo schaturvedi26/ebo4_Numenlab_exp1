@@ -7,7 +7,7 @@ Remove this line before submitting : To Refer a filled sample of this template v
 <b> Experiment ABCDEF Lab  <a name="top"></a> <br>
 </p>
 
-<b>Discipline | <b>Type Name of Discipline  to which lab belongs
+<b>Discipline | <b>Information Technology
 :--|:--|
 <b> Lab | <b> Type name of the lab
 <b> Experiment|     <b> 1. Name of the experiment

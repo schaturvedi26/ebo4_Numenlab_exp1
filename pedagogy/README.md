@@ -9,8 +9,8 @@ Remove this line before submitting : To Refer a filled sample of this template v
 
 <b>Discipline | <b>Information Technology
 :--|:--|
-<b> Lab | <b> Web designing 
-<b> Experiment|     <b> 1. Name of the experiment
+<b> Lab | <b> Web designing lab
+<b> Experiment|     <b> 1. 
 
 
 

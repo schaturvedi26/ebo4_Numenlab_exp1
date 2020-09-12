@@ -43,7 +43,7 @@ Student
 
 <h5> Universities Mapped : </h5>
 
-AKTU
+Dr. APJ Abdul Kalam Technical University , Lucknow 
 
 <b>Name of Developer | <b> Mr. Sachidanand Chaturvedi
 :--|:--|

@@ -13,12 +13,6 @@ Remove this line before submitting : To Refer a filled sample of this template v
 <b> Experiment|     <b> 1. Name of the experiment
 
 
-<h4> [1. Focus Area](#LO)
-<h4> [2. Learning Objectives ](#LO)
-<h4> [3. Instructional Strategy](#IS)
-<h4> [4. Task & Assessment Questions](#AQ)
-<h4> [5. Simulator Interactions](#SI)
-<hr>
 
 <a name="LO"></a>
 #### 1. Focus Area : Name of the Focus area as per handout
@@ -85,7 +79,7 @@ or type the correct answer below the question.
 
 <a name="SI"></a>
 
-#### 4. Simulator Interactions:
+#### 5. Simulator Interactions:
 <br>
 
 Sr.No | What Students will do? |	What Simulator will do?	| Purpose of the task

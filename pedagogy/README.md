@@ -23,10 +23,11 @@ In this problem approach we will show how different HTML (Hyper Text Markup Lang
 
 Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 :--|:--|:--|:-:
-1.| Understanding the concept of HTML various tags and understand how they behave, while formatting a textual document.| [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/do	Classifycument.php) | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
-2.| User will be able to: <br>Next line from here <br> Next line here. | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
-3.| User will be able to: <br>Next line from here <br> Next line here. | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
-4.| User will be able to: <br>Next line from here <br> Next line here. | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
+1.| Understanding the concept of HTML various tags and understand how they behave, while formatting a textual document.| Understand | Classify
+2.| Understanding the application of HTML Tags  | Understand | Demonstrate
+3.| Understanding how Tags  are how they behave, while formatting a textual document .| Understand | Interpret
+4.| When a web browser reads an HTML document, browser reads it from top to bottom and left to right. HTML tags are used to create HTML documents and render their properties. Each HTML tags have different properties , according to the understandings so far.
+ | Analyse | Inspect 
 
 
 <br/>

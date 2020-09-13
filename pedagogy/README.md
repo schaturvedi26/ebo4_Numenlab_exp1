@@ -39,8 +39,13 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 
 <a name="IS"></a>
 #### 3. Instructional Strategy
-###### Name of Instructional Strategy  :    <u> As per Handout
-###### Assessment Method: As per handout
+###### Name of Instructional Strategy  :    <u>  Problem based expository
+######Assessment Method: Practical based
+Description:  This experiment enables the students to understand the concept of HTML various tags. It offers students a chance to gain deeper learning for tags  of HTML . An HTML tag is commonly defined as a set of characters constituting a formatted command for a Web page. At the core of HTML, tags provide the directions or recipes for the visual content that one sees on the Web.
+ Simulator:  HTML tags have always been important in the history of Web design. During the early days of the World Wide Web, they were responsible for a majority of Web code. That may not be the case anymore, but HTML tags are still at the center of how Web pages are formatted. Other kinds of languages have been built around the backbone of HTML.
+ 
+Here in understanding of working of HTML tags we are proposing simulation having three interfaces ;In the first interface we will  provide user to  input  tags from our  collection of tags section  .When we click particular HTML Tag ,code regarding it will reflect in next section of interface  & in last  interface we will have result as it will be show in our web browser .
+
 
 <u> <b>Description: </b> of how you are going to implement the above Instructional Strategy in your Simulator: </u>
 <br>

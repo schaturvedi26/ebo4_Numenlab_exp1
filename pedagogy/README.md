@@ -87,7 +87,7 @@ or type the correct answer below the question.
 <br>
 
 Sr.No | What Students will do? |	What Simulator will do?	| Purpose of the task
-:--|:--|:--|:--:
+:--|:--|:--|:--
 1.| Student clicks on the simulation tab.	Simulator screen of the experiment will open up.	| Simulator screen of the experiment will open up' |	To open screen for performing the experiment.
 2.| Student will select the HTML tag from the drop down box he wants to perform | The input given to drop down  box from the chosen options which will appear on the simulator’s screen.	Open the desired HTML Tag . '  | Open the desired HTML Tag .
 3.| Student will edit code with respect to code  as per the conversion selected  |	Input value appears in the simulator’s  result box '|	Providing input to simulator  for understanding.

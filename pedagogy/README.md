@@ -9,7 +9,7 @@ Remove this line before submitting : To Refer a filled sample of this template v
 
 <b>Discipline | <b>Information Technology
 :--|:--|
-<b> Lab | <b> Web designing lab
+<b> Lab | <b> Web designing lab (KIT451)
 <b> Experiment|     <b> 1. To create a simple html file to demonstrate the use of different tags.
 
 
@@ -26,8 +26,8 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 1.| Understanding the concept of HTML various tags and understand how they behave, while formatting a textual document.| Understand | Classify
 2.| Understanding the application of HTML Tags  | Understand | Demonstrate
 3.| Understanding how Tags  are how they behave, while formatting a textual document .| Understand | Interpret
-4.| When a web browser reads an HTML document, browser reads it from top to bottom and left to right. HTML tags are used to create HTML documents and render their properties. Each HTML tags have different properties , according to the understandings so far.
- | Analyse | Inspect 
+4.| When a web browser reads an HTML document, browser reads it from top to bottom and left to right. HTML tags are used to create HTML documents and render their properties. Each HTML tags have different properties , according to the understandings so far.| Analyse | Inspect  
+ 
 
 
 <br/>

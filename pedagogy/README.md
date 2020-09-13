@@ -15,14 +15,15 @@ Remove this line before submitting : To Refer a filled sample of this template v
 
 
 <a name="LO"></a>
-#### 1. Focus Area : Name of the Focus area as per handout
+#### 1. Focus Area :
+In this problem approach we will show how different HTML (Hyper Text Markup Language )  tags makes use of various tags to format the content & understand  the structure of HTML document .
 
 #### 2. Learning Objectives and Cognitive Level
 
 
 Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 :--|:--|:--|:-:
-1.| User will be able to: <br>Next line from here <br> Next line here. | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
+1.| Understanding the concept of HTML various tags and understand how they behave, while formatting a textual document.| [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/do	Classifycument.php) | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
 2.| User will be able to: <br>Next line from here <br> Next line here. | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
 3.| User will be able to: <br>Next line from here <br> Next line here. | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
 4.| User will be able to: <br>Next line from here <br> Next line here. | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php)

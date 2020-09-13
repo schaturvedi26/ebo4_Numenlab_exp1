@@ -22,7 +22,7 @@ In this problem approach we will show how different HTML (Hyper Text Markup Lang
 
 
 Sr. No |	Learning Objective	| Cognitive Level | Action Verb
-:--|:--|:--|:-:
+:--|:--|:--|:-
 1.| Understanding the concept of HTML various tags and understand how they behave, while formatting a textual document.| Understand | Classify
 2.| Understanding the application of HTML Tags  | Understand | Demonstrate
 3.| Understanding how Tags  are how they behave, while formatting a textual document .| Understand | Interpret

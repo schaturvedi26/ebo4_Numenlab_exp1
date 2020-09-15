@@ -47,7 +47,7 @@ Dr. APJ Abdul Kalam Technical University , Lucknow
 :--|:--|
 <b> Institute | <b> KIET Group of Institutions
 <b> Email id|     <b> neelam.rawat@kiet.edu
-<b> Department |Department of Computer Applications
+<b> Department |Computer Applications
 
 #### Contributors List
 

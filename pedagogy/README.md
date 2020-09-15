@@ -64,7 +64,7 @@ Read the theory and comprehend the concepts related to the experiment. [LO1, LO2
 Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the simulator | Assessment Questions as per LO & Task
 :--|:--|:--|:-:
 1.| 	User will be able to understand basic HTML Tags for content 
- <br> Next line here. | On the simulator screen, students will be able to give input from  first interface  in which we put different tags in drop  down box  ,user will select then operation performed by the simulator which will reflect in next interface .  <br> student will perform | 1) HTML document start and end with which tag pairs?
+ . | On the simulator screen, students will be able to give input from  first interface  in which we put different tags in drop  down box  ,user will select then operation performed by the simulator which will reflect in next interface .  <br> student will perform | 1) HTML document start and end with which tag pairs?
 a. <HEAD>….</HEAD>
 b. <BODY>….</BODY>
 c. <HTML>….</HTML>

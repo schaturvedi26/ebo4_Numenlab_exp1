@@ -64,17 +64,17 @@ d)	<br>
 Ans ( c )
 
 4) Which of the following tag is used for inserting the largest heading in HTML?
-a)	<h3>
-b)	<h1>
-c)	<h5>
-d)	<h6>
+a)	<,h3,>
+b)	<,h1,>
+c)	<,h5,>
+d)	<,h6,>
 
 Ans ( b)
 5) Which of the following tag is used to insert a line-break in HTML?
-a)	<br>
-b)	<a>
-c)	<pre>
-d)	<b>
+a)	<,br,>
+b)	<,a,>
+c)	<,pre,>
+d)	<,b,>
 
 Ans (  a )
 

@@ -55,11 +55,11 @@ c)	HTML, Head, Title, Body
 d)	HTML, Head, Title, Body
 
 Ans :  ( d )
-) Which of the following element is responsible for making the text bold in HTML?
-a)	<pre>
-b)	<a>
-c)	<b>
-d)	<br>
+3) Which of the following element is responsible for making the text bold in HTML?
+a)	<,,pre>
+b)	<,a,>
+c)	<,b,>
+d)	<,br,>
 
 Ans ( c )
 

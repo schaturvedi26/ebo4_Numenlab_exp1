@@ -63,47 +63,7 @@ Read the theory and comprehend the concepts related to the experiment. [LO1, LO2
 
 Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the simulator | Assessment Questions as per LO & Task
 :--|:--|:--|:-:
-1.| User will be able to understand basic HTML Tags for content | On the simulator screen, students will be able to give input from  first interface  in which we put different tags in drop  down box  ,user will select then operation performed by the simulator which will reflect in next interface . 
-Working of the basic HTML tags as   per the concepts  described prior in W3C standards , and observe the  result for future tag use in website formulation. | 1)  Tags and text that are not directly displayed on the page are written in _____ section.
-a. <html>
-b. <head>
-c. <title>
-d. <body>
-
-<b>Ans : b</b>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+1.| User will be able to understand basic HTML Tags for content | On the simulator screen, students will be able to give input from  first interface  in which we put different tags in drop  down box  ,user will select then operation performed by the simulator which will reflect in next interface .Working of the basic HTML tags as   per the concepts  described prior in W3C standards , and observe the  result for future tag use in website formulation. |1)  Tags and text that are not directly displayed on the page are written in _____ section.a. html  b. head  c.title d.body  Ans : b  | 2. | User will be able to identify and apply different  HTML Tags for content.  | On the simulator screen, students will be able to give input to understand different tags  and submit the value for the operation performed by the simulator. | Choose the correct HTML tag to make a text italic a. ii b. italics c. italic d. i  Ans : d
 
 
 You can add more question. All questions may not be as MCQ

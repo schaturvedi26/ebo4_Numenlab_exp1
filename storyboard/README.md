@@ -12,7 +12,7 @@ In other words, there could be cross-references from one research paper to anoth
 Tim demonstrated a basic, but attractive way of publishing text by developing some software himself, and also his own simple protocol - HTTP - for retrieving other documents' text via hypertext links. Tim's own protocol, HTTP, stands for HyperText Transfer Protocol. The text format for HTTP was named HTML, for HyperText Mark-up Language; Tim's hypertext implementation was demonstrated on a NeXT workstation, which provided many of the tools he needed to develop his first prototype. By keeping things very simple, Tim encouraged others to build upon his ideas and to design further software for displaying HTML, and for setting up their own HTML documents ready for access.HTML works on Tags which is focus of our experiment .
 
 ### 2. Story
-To understand the content structuring of HTML we have different basic tags which help us to construct the HTML web page with .html extension . An HTML  document is composed of three parts: a line containing HTML version information,  a declarative header section (delimited by the HEAD element), a body, which contains the document's actual content. The body may be implemented by the BODY element or the FRAMESET element. For structuring content in the body element we use many basic elements as Tags . The basic elements of an HTML page are  : A text header, denoted using the <h1>, <h2>, <h3>, <h4>, <h5>, <h6> tags. A paragraph, denoted using the <p> tag. A horizontal ruler, denoted using the <hr> tag and many more are defined as per requirement of content management .
+To understand the content structuring of HTML we have different basic tags which help us to construct the HTML web page with .html extension . An HTML  document is composed of three parts: a line containing HTML version information,  a declarative header section (delimited by the HEAD element), a body, which contains the document's actual content. The body may be implemented by the BODY element or the FRAMESET element. For structuring content in the body element we use many basic elements as Tags . The basic elements of an HTML page are  : A text header, denoted using the ,,h1,,, ,,h2,,, ,,h3,,, ,,h4,,, ,,h5,,, ,,h6,, tags. A paragraph, denoted using the ,,p,, tag. A horizontal ruler, denoted using the ,,hr,, tag and many more are defined as per requirement of content management .
 For the understanding we propose a simulator in first part we proposed definition where the different element defined as Tags are defined .After developing the understanding we will demonstrate the coding structure for uses as in development of web page .
 In the next interface the user can interpret it by applying their inputs then analyze and inspect the selected HTML tag .
 
@@ -83,10 +83,13 @@ Ans (  a )
 
 
 ##### 2.5 Allow pitfalls:
-Describe the pitfalls here: (guide : (while traversing or while solving challenge, how will we bring a situation in front of him that he commits mistake if he is not attentive , or not following procedure , descriptive))
+In our simulator user can use  as many tag he  want as per your code requirement.
+All HTML tags must enclosed within <`  `  > these brackets. Every tag in HTML perform different tasks. Syntax <,,tag,,> content <,,/tag,,> if the Syntax will not be followed it will show error or tag will not run . If you have used an open tag <,,tag,,>, then you must use a close tag <,,/tag,,> (except some tags) . 
+
+
 
 ##### 2.6 Conclusion:
-Describe conclusion here : (guide: This may include displaying: how much time did the user take to solve the questions/ How many questions were right?/ How many hints did the learner use. Based on this the evaluation/marking to be suggested to the user. (once he is towards the completion of the experiment, what LO he is taking along with him, what will be his probable, interpretation/conclusion , descriptive) )
+User will be able to use our simulator and will be able to understand HTML Tag for Web Development .
 
 ##### 2.7 Equations/formulas: NA
 Type equations here : (guide : ( a separate sheet having equations / programs for the lab exper3ment to be shared along with the Story submissions (1) . You can mark it as numerical reference numbers within the story narration (like we cite in the research papers) and then separately share these equations/programs sheets as a reference, do not include the equations as a whole in the narration))

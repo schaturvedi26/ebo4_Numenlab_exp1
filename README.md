@@ -1,6 +1,6 @@
 ### Introduction (Round 0)
 
-Remove this line before submitting : To Refer a filled sample of this template visit here : <br> http://vlabs.iitb.ac.in/gitlab/Community-Docs/New-Lab-development/Samples
+
 <br>
 
 <b>Discipline | <b>Information Technology  
@@ -25,7 +25,7 @@ HTML Text Tags : p, h1, h2, h3, h4, h5, h6, strong, em, abbr, acronym, address, 
 
 <h5> Target Audience : </h5>
 
-Student
+Student(Information Technology)
 
 <h5> Course Alignment : </h5>
 
@@ -53,11 +53,10 @@ Dr. APJ Abdul Kalam Technical University , Lucknow
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | Sachidanand Chaturvedi | Faculty | Computer Science & Engineering | Buddha Institute Of Technology GIDA, Gorakhpur | schaturvedi26@bit.ac.in |
-2 | Pratim Sharma | Student | Information Technology | Buddha Institute of Technology GIDA, Gorakhpur | pratimsh8486@gmail.com |
-3 | Pankaj Kumar Gupt | Student | Computer Science & Engineeing | Buddha Institute of Technology GIDA, Gorakhpur | pankajid7541@gmail.com |
-4 | Manish Pandey | Student | Computer Science & Engineering | Buddha Institute of Technology GIDA, Gorakhpur | mpandeyji977@gmail.com |
-5 | Shubham Kumar | Student | Computer Science & Engineering | Buddha Institute of Technology GIDA, Gorakhpur | kshubh8604@gmail.com |
+1 | Pratim Sharma | Student | Information Technology | Buddha Institute of Technology GIDA, Gorakhpur | pratimsh8486@gmail.com |
+2 | Pankaj Kumar Gupt | Student | Computer Science & Engineeing | Buddha Institute of Technology GIDA, Gorakhpur | pankajid7541@gmail.com |
+3 | Manish Pandey | Student | Computer Science & Engineering | Buddha Institute of Technology GIDA, Gorakhpur | mpandeyji977@gmail.com |
+4 | Shubham Kumar | Student | Computer Science & Engineering | Buddha Institute of Technology GIDA, Gorakhpur | kshubh8604@gmail.com |
 
 <br>
-for more details on Rounds visit : <b> [HERE](http://vlabs.iitb.ac.in/gitlab/Community-Docs/New-Lab-development/List-of-Rounds/blob/master/README.md) </b>
+ </b>

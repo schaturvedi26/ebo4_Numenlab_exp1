@@ -43,7 +43,7 @@ Dr. APJ Abdul Kalam Technical University , Lucknow
 
 #### Mentor Details
 
-<b>Mentored by | <b>Mrs. Neelam Rawat
+<b>Mentored by | <b>Ms. Neelam Rawat
 :--|:--|
 <b> Institute | <b> KIET Group of Institutions
 <b> Email id|     <b> neelam.rawat@kiet.edu
